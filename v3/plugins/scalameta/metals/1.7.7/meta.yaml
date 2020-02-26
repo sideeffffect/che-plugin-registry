@@ -27,7 +27,5 @@ spec:
       - name: bloop
         mountPath: /home/theia/.cache/bloop
   extensions:
-    - https://github.com/sideeffffect/vscode-scala-syntax/releases/download/0.3.9/scala-lang.scala-0.3.9.vsix
-    - https://github.com/sideeffffect/vscode-scala-syntax/releases/download/0.1.0/scala-lang.scala-snippets-0.1.0.vsix
     - https://github.com/scalameta/metals-vscode/releases/download/v1.7.7/scalameta.metals-1.7.7.vsix
 
